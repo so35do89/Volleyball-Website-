@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Volleyball Homepage </title>
+      <link rel="stylesheet" type="text/css" href="stylesheet.css"></link>
+  </head>
+  <body>
+      <div id = "header"></div>
+      <div id = "left_block"></div>
+      <div id = "middle_block"></div>
+      <div id = "right_block"></div>
+
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#teams"> Teams</a></li>
+        <li><a href="#Information"> Information </a></li>
+        <li><a href="#More"> More </a></li>
+      </ul>
+
+    <img src="http://www.isdlions.de/Assets/International+School+of+Dusseldorf+Digital+Assets/images/Slideshow/hero_1.jpg"/>
+  </body>
+</html>
